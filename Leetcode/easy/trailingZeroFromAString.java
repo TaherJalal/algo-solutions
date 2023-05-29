@@ -17,5 +17,4 @@ public class Main {
 }
 
 
-
 //https://leetcode.com/problems/remove-trailing-zeros-from-a-string/solutions/3572865/easy-java/
