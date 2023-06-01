@@ -7,7 +7,7 @@ class Solution {
                 index++;
             }
         }
-        while (index < nums.length) {
+        while (index <= nums.length) {
             nums[index] = 0;
             index++;
         }
